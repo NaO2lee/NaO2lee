@@ -22,7 +22,7 @@
 | **acosmeticstory** — 글로벌 D2C 자사몰 | [acosmeticstory.com](https://acosmeticstory.com) | Shopify · Liquid · JS |
 | **Intrinsic AR** — 30종 스킨케어 제품 AR 인식, 텍스쳐 정보 제공 | [acosmeticstory.github.io/intrinsic-ar](https://acosmeticstory.github.io/intrinsic-ar/) | MindAR · A-Frame · Tesseract.js |
 | **Holder AR** — 라벨 바코드 스캔 → 제품 정보 | [holders.acosmeticstory.com](https://holders.acosmeticstory.com) | zxing-js · GS1 EAN-13 · Cloudflare |
-| **Everyplay** — Holiday project (줄넘기 라이브 스트리밍) | [everyplay.weplaykorea.com](https://everyplay.weplaykorea.com/) | Frontend |
+| **Everyplay** — Holiday project (줄넘기 라이브 스트리밍) | [everyplay.weplaykorea.com](https://everyplay.weplaykorea.com/) | Full Stack |
 
 ---
 
