@@ -7,11 +7,11 @@
 
 ## About
 
-- 스스로를 **AI 빌더**로 정의
-- 도메인 지식 + 데이터 + LLM을 조합해 직접 경험하지 못한 영역까지 설계·실행
-- AI를 도구가 아닌 **현실적 결과물을 만들어내는 역할**로 활용
-- 화학 → 바이오소재 → 의료·생체신호 → 제조 도메인을 거쳐 데이터 분석을 일관된 관점으로 확장
-- 빌더 2명·디자인 2명 소규모 팀과 함께 글로벌 D2C 자사몰·카메라 기반 제품 인식 시스템·회계 자동화 포털을 직접 구축·운영 중
+안녕하세요, 이나영입니다.
+
+도메인 지식과 데이터, 그리고 LLM을 조합해 직접 경험하지 못한 영역까지 설계·실행하는 'AI 빌더'로 일하고 있습니다. AI를 단순한 도구가 아니라, 현실적인 결과물을 만들어내기 위한 동반자로 활용합니다.
+
+화학 → 바이오소재 → 의료·생체신호 → 제조 도메인을 거치며, 데이터를 정제하고 의미를 끌어내는 일을 일관된 관점으로 확장해 왔습니다. 현재는 빌더 2명·디자인 2명으로 구성된 소규모 팀에서 글로벌 D2C 자사몰, 카메라 기반 제품 인식 시스템, 회계 자동화 포털을 직접 구축하고 운영하고 있습니다.
 
 ---
 
@@ -19,10 +19,10 @@
 
 | Project | Live | Stack |
 |---|---|---|
-| **A Cosmetic Story** — 글로벌 D2C 자사몰 | [acosmeticstory.com](https://acosmeticstory.com) | Shopify · Liquid · JS |
-| **Intrinsic AR** — 30종 스킨케어 제품 카메라 인식 + 11개 언어 | [acosmeticstory.github.io/intrinsic-ar](https://acosmeticstory.github.io/intrinsic-ar/) | MindAR · A-Frame · Tesseract.js |
-| **Holder AR** — 라벨 EAN-13 스캔 → 제품 정보 (서브도메인 직접 구축) | [holders.acosmeticstory.com](https://holders.acosmeticstory.com) | zxing-js · GS1 EAN-13 · Cloudflare |
-| **Everyplay** — 줄넘기 대회 라이브 스트리밍 (Korea Open 3일 운영) | [everyplay.weplaykorea.com](https://everyplay.weplaykorea.com/) | 사이드 스타트업 |
+| **acosmeticstory** — 글로벌 D2C 자사몰 | [acosmeticstory.com](https://acosmeticstory.com) | Shopify · Liquid · JS |
+| **Intrinsic AR** — 30종 스킨케어 제품 AR 인식, 텍스쳐 정보 제공 | [acosmeticstory.github.io/intrinsic-ar](https://acosmeticstory.github.io/intrinsic-ar/) | MindAR · A-Frame · Tesseract.js |
+| **Holder AR** — 라벨 바코드 스캔 → 제품 정보 | [holders.acosmeticstory.com](https://holders.acosmeticstory.com) | zxing-js · GS1 EAN-13 · Cloudflare |
+| **Everyplay** — Holiday project (줄넘기 라이브 스트리밍) | [everyplay.weplaykorea.com](https://everyplay.weplaykorea.com/) | Frontend |
 
 ---
 
@@ -106,11 +106,11 @@ SEO         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░  85
 
 ---
 
-## Side Project
+## Holiday Project
 
 ### Everyplay — 줄넘기 대회 라이브 스트리밍
 
-- 회사 외 사이드 스타트업, 후배와 공동 운영
+- 회사 외 holiday project, 후배와 공동 운영
 - **Korea Open 오픈 경기 3일** 실제 라이브 서비스 운영
 - [everyplay.weplaykorea.com](https://everyplay.weplaykorea.com/) — 프론트엔드 담당
 
