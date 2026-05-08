@@ -1,6 +1,6 @@
-# 이나영 — AI 빌더
+# AI Builder
 
-(주)연희 AI 빌더팀 / Tangiblestory 신규 뷰티브랜드 TF
+yonhee co.,ltd. AI team / Tangiblestory 신규 뷰티브랜드 TF
 `tkfkd4528@gmail.com`
 
 ---
